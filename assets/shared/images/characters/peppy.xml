@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peppy.png"> 
+<SubTexture name="peppy down0000" x="424" y="694" width="207" height="301" frameX="-121" frameY="-102" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy idle0000" x="631" y="694" width="231" height="295" frameX="-104" frameY="-109" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy down0001" x="862" y="694" width="215" height="294" frameX="-119" frameY="-109" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy idle0001" x="531" y="0" width="198" height="343" frameX="-134" frameY="-63" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy idle0002" x="220" y="356" width="195" height="336" frameX="-142" frameY="-70" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy idle0003" x="199" y="694" width="225" height="322" frameX="-134" frameY="-84" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy idle0004" x="729" y="333" width="205" height="329" frameX="-143" frameY="-78" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy idle0005" x="342" y="0" width="189" height="347" frameX="-140" frameY="-61" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy left0000" x="943" y="0" width="191" height="328" frameX="-113" frameY="-71" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy left0001" x="0" y="694" width="199" height="325" frameX="-92" frameY="-75" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy left0002" x="943" y="328" width="186" height="325" frameX="-105" frameY="-74" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy right0000" x="0" y="356" width="220" height="338" frameX="-184" frameY="-67" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy right0001" x="729" y="0" width="214" height="333" frameX="-188" frameY="-72" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy right0002" x="415" y="356" width="222" height="336" frameX="-177" frameY="-70" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy up0000" x="172" y="0" width="170" height="354" frameX="-151" frameY="-48" frameWidth="439" frameHeight="427" />
+<SubTexture name="peppy up0001" x="0" y="0" width="172" height="356" frameX="-151" frameY="-45" frameWidth="439" frameHeight="427" />
+</TextureAtlas>
