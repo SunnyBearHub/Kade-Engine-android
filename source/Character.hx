@@ -498,6 +498,25 @@ class Character extends FlxSprite
 				addOffset("singDOWN-alt", -30, -27);
 
 				playAnim('idle');
+			 case 'peppy':
+				tex = Paths.getSparrowAtlas('characters/peppy');
+				frames = tex;
+				animation.addByPrefix('singUP', 'peppy up', 24, false);
+				animation.addByPrefix('singDOWN', 'peppy down', 24, false);
+				animation.addByPrefix('singLEFT', 'peppy left', 24, false);
+				animation.addByPrefix('singRIGHT', 'peppy right', 24, false);
+				animation.addByIndices('danceLeft', 'peppy idle', [0, 2, 6], "", 12, false);
+				animation.addByIndices('danceRight', 'peppy idle', [8, 10, 12, 14], "", 12, false);
+
+				addOffset('danceLeft');
+				addOffset('danceRight');
+
+				addOffset("singUP", -20, 26);
+				addOffset("singRIGHT", -130, -14);
+				addOffset("singLEFT", 130, -10);
+				addOffset("singDOWN", -50, -130);
+
+				playAnim('danceRight');	
 		}
 
 		dance();
